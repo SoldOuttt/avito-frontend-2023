@@ -1,0 +1,44 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: #1C1E22;
+}
+
+.ant-typography {
+    color: #ECECEC !important;
+}
+
+.ant-typography-secondary {
+    color: #a6a6a6 !important;
+}
+
+.ant-card-body {
+    height: 150px;
+    padding-top: 5px !important;
+    padding-bottom: 0 !important;
+    overflow: hidden;
+}
+
+.ant-card-actions {
+    background: #24252c !important;
+}
+
+.ant-card {
+    background: #3b4046
+}
+
+.ant-card:hover {
+    cursor: pointer;
+}
+
+.ant-dropdown-menu-item:hover {
+    background: #c3c6cc !important;
+}
+
+.ant-dropdown-menu-item-selected, .ant-dropdown-menu-item-selected:hover {
+    color: rgba(0, 0, 0, 0.88) !important;
+    background: #797d83 !important;
+}
+
